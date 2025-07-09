@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thoughts, Words and Emotions - No Poetry, Sorry!
-email: aperson@ofnosignificance.com
+title: Thoughts, Words and Emotions
+email: areinsdel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  These are mostly inner monologues captured here so that I won't trip over stuffs while mulling over them. 
-  An outlet for my pointless meanderings and a platform to practice the ancient art of writing without artificial intelligence. 
-  The absence of artificial intelligence doesn't guarantee any wisdom from my part. Read at your own risk.    
+  These are mostly inner monologues captured here mostly as an outlet for my pointless meanderings and as a platform to practice the ancient art of writing without artificial intelligence.
+  You can say I crafted them out of sheer stupidity/brilliance/mediocrity.     
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arunneru
@@ -31,8 +30,11 @@ github_username:  arunneru
 
 # Build settings
 theme: minima
+# remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
