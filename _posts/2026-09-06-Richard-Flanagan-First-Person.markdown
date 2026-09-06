@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Richard Flanagan's First Person"
-date:   2026-09-07 15:03:59 +0100
+date:   2026-09-06 15:03:59 +0100
 categories: review, fiction
 ---
 
